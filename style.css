@@ -106,3 +106,10 @@ th, td {
     top: -5rem;
     color: white;
 }
+.goal{
+    text-align: center;
+    position: relative;
+    top: -10rem;
+    color: black;
+    padding: 20px;
+}
