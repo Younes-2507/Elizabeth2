@@ -44,7 +44,7 @@ a{
     position: relative;
     top: -4rem;
     left:10rem ;
-    margin-left: 30px;
+    padding-left: 50px;
     font-size: 25px;
     color: black;
     text-decoration: none;
@@ -109,7 +109,44 @@ th, td {
 .goal{
     text-align: center;
     position: relative;
-    top: -10rem;
+    top: -15rem;
     color: black;
     padding: 20px;
+    font-size: 30px;
+}
+.table{
+    padding-top: 20px;
+}
+#pt{
+    padding: 20px;
+    height: 50px;
+    width: 95%;
+}
+.apology{
+    color: black;
+    position: relative;
+    top: 0rem;
+    text-align: center;
+}
+#contact{
+    background-color: #333;
+    color: white;
+    padding: 50px;
+}
+.c{
+    color: white;
+    position: relative;
+    top:-2rem;
+    left:10px;
+}
+.mail{
+    color: white;
+    position: relative;
+    top:-4.4rem;
+    left:120px;
+    font-weight: bold ;
+}
+.social{
+    height: 300px;
+    width: auto;
 }
